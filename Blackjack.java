@@ -9,6 +9,8 @@ This program creates a game of Blackjack between the user and the computer.
 It uses a pseudo-random program to draw each card from the program deck for a true feeling of Blackjack. 
 */
 
+//This is an extra comment to change the original file as part of the Lab 11 homework for class.
+
 import java.util.Scanner; 
 //Importing scanner to read user inputs throughout the program.
 import java.util.Random;  
